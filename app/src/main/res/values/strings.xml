@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">actual_challenge</string>
+    <string name="pickimage">pick image</string>
+    <string name="Name">Name</string>
+    <string name="username">Enter username</string>
+    <string name="confirmusername">Confirm username</string>
+    <string name="Password">Enter password</string>
+    <string name="confirmpassword">Confirm password</string>
+    <string name="Email">Enter Email</string>
+    <string name="cofirmeemail">Confirm Email</string>
+    <string name="register">Register</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="other">Other</string>
+    <string name="country">Country</string>
+    <string-array name="country1">
+        <item>Sri Lanka</item>
+        <item>France</item>
+        <item>England</item>
+        <item>United States of America</item>
+        <item>Germany</item>
+        <item>India</item>
+    </string-array>
+    <string name="licence_agreeement">Do you agree to our license agreement</string>
+</resources>
